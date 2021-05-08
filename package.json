@@ -32,7 +32,7 @@
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.4",
     "transformer": "^1.2.7",
-    "typeorm": "^0.2.22",
+    "typeorm": "^0.2.25",
     "uuid": "^3.4.0"
   },
   "devDependencies": {
